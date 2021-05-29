@@ -7,7 +7,7 @@ TELEGRAM CLICK BOTS SCRIPT
 
 2. pkg install git
 
-3. git clone https://github.com/neutralarmy/multibot
+3. git clone https://github.com/Dileepa-Malshan/Telegram-Click-bot-script
 
 4. cd multibot 
 
